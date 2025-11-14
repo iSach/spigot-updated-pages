@@ -46,16 +46,6 @@ Events can be started through an intuitive GUI that reminds you the properties o
 
 <img src="images/event_gui.png" alt="GUI to start events" width="200"/>
 
-## Video
-
-The following video shows how to set up a map.
-
-<iframe width="420" height="280"
-        src="https://www.youtube.com/embed/yxGtWUqbU-4"
-        frameborder="0"
-        allowfullscreen>
-</iframe>
-
 ## Documentation
 
 For documentation, visit the Wiki. It provides detailed information on installation, configuration, and gameplay.
